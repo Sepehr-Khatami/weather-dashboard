@@ -1,0 +1,16 @@
+{
+  "login": { "title": "خوش آمدید — ورود", "name": "نام شما", "enter": "ورود" },
+  "dashboard": {
+    "welcome": "سلام، {{name}}",
+    "logout": "خروج",
+    "search": "جستجوی شهر",
+    "loading": "در حال بارگذاری..."
+  },
+  "ui": { "toggleTheme": "تغییر تم" },
+  "weather": {
+    "humidity": "رطوبت",
+    "pressure": "فشار",
+    "wind": "سرعت باد",
+    "time": "به‌روزرسانی"
+  }
+}

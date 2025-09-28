@@ -1,0 +1,15 @@
+{
+  "login": {
+    "title": "Welcome — Login",
+    "name": "Your name",
+    "enter": "Enter"
+  },
+  "dashboard": {
+    "welcome": "Hello, {{name}}",
+    "logout": "Logout",
+    "search": "Search city",
+    "loading": "Loading..."
+  },
+  "ui": { "toggleTheme": "Toggle theme" },
+  "weather": { "humidity": "Humidity", "pressure": "Pressure", "wind": "Wind", "time": "Time" }
+}
