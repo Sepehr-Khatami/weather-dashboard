@@ -1,6 +1,6 @@
 # Weather Dashboard — Vite + React + TypeScript + MUI
 
-Simple weather dashboard demo with:
+Simple weather dashboard  with:
 - Vite + React + TypeScript
 - Material UI (light/dark modes)
 - Axios for API calls
@@ -11,4 +11,4 @@ Simple weather dashboard demo with:
 ## Setup
 1. Clone this repo.
 2. `npm install`
-3. Create `.env`:
+3. `npm run dev`
